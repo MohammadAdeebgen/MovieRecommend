@@ -1,6 +1,5 @@
 altair==5.0.1
 anaconda-client
-anaconda-navigator
 appdirs==1.4.4
 atomicwrites==1.4.0
 backports.weakref==1.0.post1
